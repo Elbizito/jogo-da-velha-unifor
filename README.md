@@ -49,7 +49,7 @@ Como a aplicação está contida em um único arquivo HTML, ela pode ser executa
 
 Após a publicação do repositório, a aplicação deverá estar disponível pelo GitHub Pages no endereço:
 
-**[COLOCAR AQUI O LINK DO GITHUB PAGES]**
+**https://elbizito.github.io/jogo-da-velha-unifor/**
 
 ## Especificação
 
